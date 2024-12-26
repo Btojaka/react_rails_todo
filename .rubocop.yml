@@ -14,3 +14,9 @@ Style/Documentation:
 
 Layout/EmptyLineAfterMagicComment:
   Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Lint/EmptyFile:
+  Enabled: false
